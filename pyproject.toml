@@ -1,8 +1,7 @@
 [tool.poetry]
-name = "python-django-module-2"
+name = "python-django-module-20"
 version = "0.1.0"
 description = ""
-authors = ["Александр Помаз <aramissasha@gmail.com>"]
 
 
 [tool.poetry.dependencies]
